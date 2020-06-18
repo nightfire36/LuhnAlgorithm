@@ -17,5 +17,5 @@ cyfrę kontrolną, która jest "doklejana" do liczby.
 (łącznie z cyfrą kontrolną) kroków 1-5. Jeżeli liczba jest poprawna otrzyma się w
 wyniku zero.
 
-<b>Przykład</b>
+<b>Przykład</b><br/>
 Dana jest liczba 92480_.
